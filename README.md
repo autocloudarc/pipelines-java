@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/autocloudarc/pipelines-java/_apis/build/status/autocloudarc.pipelines-java?branchName=main)](https://dev.azure.com/autocloudarc/pipelines-java/_build/latest?definitionId=26&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
